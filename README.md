@@ -23,7 +23,7 @@ A **Multilingual Retrieval-Augmented Generation (RAG) System** built using **n8n
 ## 🚀 Setup Instructions
 
 1. **Import the Workflow**
-   - Download the [`multilingual-rag-n8n-workflow.json`](./multilingual-rag-n8n-workflow.json) file.  
+   - Download the [`multilingual-rag-n8n-workflow.json`](./Multilingual-RAG-n8n-Workflow.json) file.  
    - In **n8n**, click **Import** → select the JSON file to load the workflow.
 
 2. **Set Up API Keys**  
