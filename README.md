@@ -91,7 +91,7 @@ You can interact with the system through the following public chat interface:
 
 ## 📌 **Important Notes**
 - **Hosted Chat URL**: The chat will remain active during the evaluation period. If the n8n trial expires, the workflow can be re-imported and activated.
-- **Dependencies**: Ensure valid API keys for **HuggingFace**, **Pinecone**, and **Google Gemini** before running the workflow.
+- **Dependencies**: Ensure valid API keys for **HuggingFace**, **Mistral AI**,**Pinecone**, and **Google Gemini** before running the workflow.
 
 ---
 
